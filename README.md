@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sorrawit Sangmanee
 ==========================================================================================================================================
 
-Software Engineer, Developer, UX/UI Design
+Software Engineer, Full-Stack Developer
 ------------------------------------------
 
-I'm study software engineering at Burapha University, Chonburi. Learning to code for 3 years
+I'm study software engineering at Burapha University, Chonburi. Learning to code for 4 years
 
 * 🌍  I'm based in Chonburi
 * ✉️  You can contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
-* 🚀  I'm currently working on [Densy](http:///dekdee2.informatics.buu.ac.th:8025/)
-* 🧠  I'm learning data struc && algorithm
+* 🧠  Intern @MyOrder
 
 ### Skills
 
