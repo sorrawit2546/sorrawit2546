@@ -5,10 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Full-Stack Developer
 ------------------------------------------
 
-I'm study software engineering at Burapha University, Chonburi. Learning to code for 4 years
+study software engineering at Burapha University, Chonburi.
 
-* 🌍  I'm based in Chonburi
-* ✉️  You can contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
+* 🌍  based in Chonburi
+* ✉️  contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
 * 🧠  Intern @MyOrder
 
 ### Skills
