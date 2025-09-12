@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sorrawit2546) /n
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sorrawit2546)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sorrawit Sangmanee
 ==========================================================================================================================================
 
@@ -10,6 +10,23 @@ study software engineering at Burapha University, Chonburi.
 * 🌍  based in Chonburi
 * ✉️  contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
 * 🧠  Intern @MyOrder
+
+### Current Projects
+📝 Dear me, Today
+
+- A web application for positive journaling, gratitude writing, and manifestation writing, which allows users to send the notes they create—along with attached images—to their email and calendar automatically, in order to enhance self-worth and develop the skill of harvesting happiness.
+(private project)
+
+📝 9Sorrawit
+
+- A portfolio project designed to enhance skills and archive past works, with an integrated blog section for documenting newly acquired knowledge.
+[Github Repository](https://github.com/sorrawit2546/9Sorrawit)
+
+📝 Densy
+
+- A security patrol inspection system within an organization, which:
+- allows inviting multiple people to join real-time inspections of a location, and
+- includes a dashboard for reporting various statistics, and is implemented in collaboration with Siam Denso, [Github Repository](https://github.com/TheerapatPooh/TEAM6-DENSY)
 
 ### Skills
 
