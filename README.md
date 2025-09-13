@@ -32,7 +32,7 @@ study software engineering at Burapha University, Chonburi.
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,git,docker,kubernetes,jest,nestjs&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,git,docker,kubernetes,jest,nestjs,expressjs,tailwind&theme=light)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,&perline=3)](https://skillicons.dev)
 
 ### Stats
