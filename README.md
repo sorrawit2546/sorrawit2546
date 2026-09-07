@@ -12,23 +12,6 @@ study software engineering at Burapha University, Chonburi.
 * ✉️  contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
 * 🧠  @MyOrder
 
-### Current Projects
-📝 Dear me, Today
-
-- A web application for positive journaling, gratitude writing, and manifestation writing, which allows users to send the notes they create—along with attached images—to their email and calendar automatically, in order to enhance self-worth and develop the skill of harvesting happiness.
-(private project)
-
-📝 9Sorrawit
-
-- A portfolio project designed to enhance skills and archive past works, with an integrated blog section for documenting newly acquired knowledge.
-[Github Repository](https://github.com/sorrawit2546/9Sorrawit)
-
-📝 Densy
-
-- A security patrol inspection system within an organization, which:
-- allows inviting multiple people to join real-time inspections of a location, and
-- includes a dashboard for reporting various statistics, and is implemented in collaboration with Siam Denso, [Github Repository](https://github.com/TheerapatPooh/TEAM6-DENSY)
-
 ### Skills
 
 
