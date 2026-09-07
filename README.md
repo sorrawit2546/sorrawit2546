@@ -10,7 +10,7 @@ study software engineering at Burapha University, Chonburi.
 
 * 🌍  based in Chonburi
 * ✉️  contact me at [sangmanee773@gmail.com](mailto:sangmanee773@gmail.com)
-* 🧠  Intern @MyOrder
+* 🧠  @MyOrder
 
 ### Current Projects
 📝 Dear me, Today
